@@ -22,3 +22,10 @@ To run the application, use:
 ```bash
 ./gradlew run
 ```
+
+
+After that, run the generated artifact with 
+
+```bash
+java -jar <artifact_name>
+```
